@@ -2,6 +2,7 @@
 <p align="left">
   Progressive Web Application made with react, material-ui and firebase, using payment request API.
   The app is hosted on firebase hosting and you can see it here : https://coffee-shop-1569c.web.app/
+  (I recommend to test it in mobile device mode)
 </p>
 <p>
   This app is a SPA of a coffee shop, you can login with google auth, add products to your cart and check out.
