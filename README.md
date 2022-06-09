@@ -1,4 +1,4 @@
-# React-pwa_coffeeShop
+# TheCoffeeShop
 <p align="left">
   Progressive Web Application made with react, material-ui and firebase, using payment request API.<br>
   The app is hosted on firebase hosting and you can see it here : https://coffee-shop-1569c.web.app/<br>
